@@ -1,8 +1,7 @@
 ## These two functions create get the inverse matrix for matrix x:
 ## from cached memory if it was previously calculated
 ## calculate anew and saves in cache if it was not done before
-## in the global environment
-
+## in the global environment  
 
 ## This function creates a list of functions that serve to 
 ## set up and call the cached value of the inverse matrix
